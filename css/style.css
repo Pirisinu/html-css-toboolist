@@ -47,11 +47,10 @@ header img{
   width: 80%;
   margin: auto;
   border-radius: 10px;
-  padding-left: 50px;
 }
 .top-bar{
   border-bottom: 1px solid rgba(211, 211, 211, 0.4);
-
+  padding-left: 50px;
 }
 ol, ul{
   list-style: none;
